@@ -1,0 +1,378 @@
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+error: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.
+adb: error: failed to get feature set: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.
+error: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.
+OpenCV Error: Assertion failed ((scn == 3 || scn == 4) && (depth == 0 || depth == 5)) in cvtColor, file /io/opencv/modules/imgproc/src/color.cpp, line 11178
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 48, in <module>
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+cv2.error: /io/opencv/modules/imgproc/src/color.cpp:11178: error: (-215) (scn == 3 || scn == 4) && (depth == 0 || depth == 5) in function cvtColor
+
+
+real    0m4.083s
+user    0m0.734s
+sys     0m0.342s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 20.6 MB/s (271624 bytes in 0.013s)
+OpenCV Error: Assertion failed ((scn == 3 || scn == 4) && (depth == 0 || depth == 5)) in cvtColor, file /io/opencv/modules/imgproc/src/color.cpp, line 11178
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 48, in <module>
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+cv2.error: /io/opencv/modules/imgproc/src/color.cpp:11178: error: (-215) (scn == 3 || scn == 4) && (depth == 0 || depth == 5) in function cvtColor
+
+
+real    0m2.217s
+user    0m0.690s
+sys     0m0.255s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 17.8 MB/s (247810 bytes in 0.013s)
+OpenCV Error: Assertion failed ((scn == 3 || scn == 4) && (depth == 0 || depth == 5)) in cvtColor, file /io/opencv/modules/imgproc/src/color.cpp, line 11178
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 48, in <module>
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+cv2.error: /io/opencv/modules/imgproc/src/color.cpp:11178: error: (-215) (scn == 3 || scn == 4) && (depth == 0 || depth == 5) in function cvtColor
+
+
+real    0m1.573s
+user    0m0.690s
+sys     0m0.279s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 16.3 MB/s (247860 bytes in 0.014s)
+OpenCV Error: Assertion failed ((scn == 3 || scn == 4) && (depth == 0 || depth == 5)) in cvtColor, file /io/opencv/modules/imgproc/src/color.cpp, line 11178
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 48, in <module>
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+cv2.error: /io/opencv/modules/imgproc/src/color.cpp:11178: error: (-215) (scn == 3 || scn == 4) && (depth == 0 || depth == 5) in function cvtColor
+
+
+real    0m1.657s
+user    0m0.679s
+sys     0m0.280s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 4.6 MB/s (14612 bytes in 0.003s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 78, in <module>
+    a = text[linenum+1]
+IndexError: list index out of range
+
+real    0m4.137s
+user    0m1.073s
+sys     0m0.341s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 17.2 MB/s (247815 bytes in 0.014s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+  38600 hits *WINNER!!!
+ 38600 hits *WINNER!!!
+ 38600 hits *WINNER!!!
+
+real    0m6.137s
+user    0m1.429s
+sys     0m0.350s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 20.7 MB/s (247075 bytes in 0.011s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+  38600 hits *WINNER!!!
+ 38600 hits *WINNER!!!
+ 38600 hits *WINNER!!!
+
+real    0m5.116s
+user    0m1.205s
+sys     0m0.338s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 21.5 MB/s (247307 bytes in 0.011s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+  38600 hits *WINNER!!!
+ 38600 hits *WINNER!!!
+ 38600 hits *WINNER!!!
+
+real    0m5.524s
+user    0m1.243s
+sys     0m0.387s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 6.7 MB/s (471508 bytes in 0.067s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 78, in <module>
+    a = text[linenum+1]
+IndexError: list index out of range
+
+real    0m2.075s
+user    0m1.001s
+sys     0m0.327s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 17.9 MB/s (393288 bytes in 0.021s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 78, in <module>
+    a = text[linenum+1]
+IndexError: list index out of range
+
+real    0m2.207s
+user    0m1.041s
+sys     0m0.310s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 18.3 MB/s (355134 bytes in 0.019s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 80, in <module>
+    c = text[linenum+4]
+IndexError: list index out of range
+
+real    0m2.125s
+user    0m1.065s
+sys     0m0.318s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 21.9 MB/s (389974 bytes in 0.017s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Grandmother 51300000 hits *WINNER!!!
+Grandfather 46500000 hits
+Granny Smith apple 948000 hits
+
+real    0m6.282s
+user    0m1.171s
+sys     0m0.340s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 14.8 MB/s (359775 bytes in 0.023s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 79, in <module>
+    b = text[linenum+2]
+IndexError: list index out of range
+
+real    0m2.106s
+user    0m1.056s
+sys     0m0.300s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 21.5 MB/s (354287 bytes in 0.016s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Tabbouleh 59700 hits *WINNER!!!
+Kibbeh 25300 hits
+Shawarma 37600 hits
+
+real    0m8.976s
+user    0m1.177s
+sys     0m0.313s
+[soandso@MLSP3 HACKUTD]$ 
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 19.1 MB/s (265572 bytes in 0.013s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 78, in <module>
+    a = text[linenum+1]
+IndexError: list index out of range
+
+real    0m1.979s
+user    0m0.989s
+sys     0m0.319s
+[soandso@MLSP3 HACKUTD]$ 
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 16.8 MB/s (347715 bytes in 0.020s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Magnetic ﬂux 159000 hits
+ 846000 hits *WINNER!!!
+ 846000 hits *WINNER!!!
+
+real    0m3.969s
+user    0m1.179s
+sys     0m0.332s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 17.6 MB/s (363641 bytes in 0.020s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Bruce Almighty 180000 hits
+Liar Liar 70800 hits
+The Mask 404000 hits *WINNER!!!
+
+real    0m5.387s
+user    0m1.125s
+sys     0m0.358s
+[soandso@MLSP3 HACKUTD]$ echo was wrong answer is LIAR LIAR
+was wrong answer is LIAR LIAR
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py       
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 19.4 MB/s (341657 bytes in 0.017s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+e.e. cummings 11800 hits
+T.S. Eliot 9050 hits
+Walt Whitman 26000 hits *WINNER!!!
+
+real    0m3.961s
+user    0m1.204s
+sys     0m0.308s
+[soandso@MLSP3 HACKUTD]$ echo WAS CORRECT
+WAS CORRECT
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 5.3 MB/s (289719 bytes in 0.052s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Lactose 6180 hits
+ 81400 hits *WINNER!!!
+ 81400 hits *WINNER!!!
+
+real    0m4.133s
+user    0m1.226s
+sys     0m0.290s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 18.2 MB/s (1037446 bytes in 0.054s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 78, in <module>
+    a = text[linenum+1]
+IndexError: list index out of range
+
+real    0m2.484s
+user    0m1.195s
+sys     0m0.290s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 18.1 MB/s (1093361 bytes in 0.058s)
+getting Q&A...
+Traceback (most recent call last):
+  File "hqtrivsolver.py", line 80, in <module>
+    c = text[linenum+4]
+IndexError: list index out of range
+
+real    0m2.511s
+user    0m1.181s
+sys     0m0.333s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 20.1 MB/s (347755 bytes in 0.016s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+saved it? 2720000 hits *WINNER!!!
+ 2540000 hits
+Pictionary 107000 hits
+
+real    0m4.387s
+user    0m1.181s
+sys     0m0.313s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 12.3 MB/s (358308 bytes in 0.028s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Ella Fitzgerald 813 hits *WINNER!!!
+ 10 hits
+ 10 hits
+
+real    0m3.820s
+user    0m1.135s
+sys     0m0.374s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 19.5 MB/s (355773 bytes in 0.017s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+World Record holders 457000 hits *WINNER!!!
+weighed the most? 383000 hits
+Heaviest watermelon 189000 hits
+
+real    0m4.154s
+user    0m1.193s
+sys     0m0.336s
+[soandso@MLSP3 HACKUTD]$ time python hqtrivsolver.py 
+getting screenshot...
+/sdcard/screen.png: 1 file pulled. 17.7 MB/s (356071 bytes in 0.019s)
+getting Q&A...
+forming seraches...
+searching...
+comparing results...
+printing results...
+***RESULTS***
+Deep-fried chicken 63 hits
+Soy latte 65 hits *WINNER!!!
+Chicken pot pie 2 hits
+
+real    0m5.515s
+user    0m1.209s
+sys     0m0.304s
+[soandso@MLSP3 HACKUTD]$ echo solver was wrong
+solver was wrong
+[soandso@MLSP3 HACKUTD]$ 

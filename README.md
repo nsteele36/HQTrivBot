@@ -1,0 +1,2 @@
+# hqtrivsolver
+# hqtrivsolver
